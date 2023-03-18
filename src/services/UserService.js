@@ -1,6 +1,6 @@
 import axios from 'axios';
 
-const USER_API_BASE_URL = "http://localhost:9080/users";
+const USER_API_BASE_URL = "http://nicelearning.ir/users";
 
 class UserService {
 
